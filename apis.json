@@ -1,0 +1,92 @@
+{
+    "name": "Feedbooks",
+    "description": "Discover thousands of eBooks, including new releases and the best collection of free public domain books, that you can read on any mobile device.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/403-feedbooks.jpg",
+    "tags": [
+        "api provider",
+        "books",
+        "have api",
+        "hypermedia api",
+        "iphone",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/feedbooks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Feedbooks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/403-feedbooks.jpg",
+            "humanURL": "http:\/\/www.feedbooks.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/feedbooks-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/feedbooks-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.feedbooks.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.feedbooks.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.feedbooks.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/feedbooks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/feedbooks"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.feedbooks.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "hadrien.gardeur@feedbooks.com"
+        },
+        {
+            "type": "Email",
+            "url": "loic.roussel@feedbooks.com"
+        },
+        {
+            "type": "Email",
+            "url": "bernard.strainchamps@feedbooks.com"
+        },
+        {
+            "type": "Email",
+            "url": "lara.touitou@feedbooks.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Feedbooks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/feedbooks"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.feedbooks.com"
+        }
+    ]
+}
